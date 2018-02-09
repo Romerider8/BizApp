@@ -49,6 +49,8 @@ class ViewController: UIViewController {
         let path = "https://www.zipcodeapi.com/rest/itB7uHINb0cW1Jbb4rr8Hp5BTOvdNBVqG7BiLwwvqMpMVms6FqxyMB5RCKs6SiEs/multi-distance.json/"+appendToBase
         let testApiPath = "https://www.zipcodeapi.com/rest/wvyR5aWjHNUF80Z6kmr1bTuNojfzhmvtcmfBD8QNo9qbNAHy9FvBISINKF3W5i9J/multi-distance.json/"+appendToBase
         
+        let TEST = "THIS IS A FUCKING TEST STRING IF IT DON'T WORK ILL BE GOD DAMN FUCKING PISSED"
+        
         let url = URL(string: path)
  
         let task = URLSession.shared.dataTask(with: url!) {(data, response, error) in
