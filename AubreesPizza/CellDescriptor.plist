@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<array>
+		<string>Tater Tot Nachos</string>
+		<string>Fried Feta</string>
+		<string>The Ultimate Feta Bread</string>
+		<string>Cheese Bread</string>
+		<string>Aubrees Bread</string>
+		<string>The Wings!</string>
+		<string>Coconut Grove Chicken Sicks</string>
+		<string>Far East Wings</string>
+		<string>Bacon Brussels Sprouts</string>
+	</array>
+	<array>
+		<string>Shaved Brussels Sprout Salad</string>
+		<string>Greek Salad</string>
+		<string>Coronado Cobb Salad</string>
+		<string>Harvest Salad</string>
+		<string>Aubree&apos;s Chili</string>
+		<string>Soup of the Moment</string>
+		<string>Tomato Bisque</string>
+	</array>
+	<array>
+		<string>Aubree&apos;s Steak N&apos; Mushrooms</string>
+		<string>Cabo Fish Tacos</string>
+		<string>Fish &amp; Chips</string>
+		<string>Pasta Gone Bayou</string>
+		<string>Mac &amp; Cheese</string>
+		<string>Smokehouse Mac &amp; Cheese</string>
+		<string>A Coconut Grove Chicken</string>
+	</array>
+	<array>
+		<string>Bourbon Bbq Chicken Sandwich</string>
+		<string>Saucy Steak Sammy</string>
+		<string>B.A.T. Grilled Cheese</string>
+	</array>
+	<array>
+		<string>Aubrees Classic</string>
+		<string>Derby Bourbon Burger</string>
+		<string>Boursin Mushroom Burger</string>
+		<string>Old Detroiter Burger</string>
+		<string>The Firehouse Burger</string>
+	</array>
+	<array>
+		<string>Calzone</string>
+		<string>PIzza Rolls</string>
+		<string>Spinach &amp; Feta Pizza Rolls</string>
+	</array>
+	<array>
+		<string>Herb Chicken</string>
+		<string>Margherita</string>
+		<string>Tuscan Sun</string>
+		<string>Sicilian</string>
+		<string>Nacho Pizza</string>
+		<string>Louisiana Cajun</string>
+	</array>
+	<array>
+		<string>BBQ Chicken</string>
+		<string>The Big Kahuna</string>
+		<string>Mighty Mighty Meat</string>
+		<string>Supreme</string>
+		<string>Vegetarian</string>
+	</array>
+	<array>
+		<string>Aubree&apos;s Cookie Crisp</string>
+		<string>Baked Apple Tart</string>
+		<string>Aubree&apos;s Rockslide Brownie Bites</string>
+		<string>GF Chocolate Torte</string>
+	</array>
+	<array>
+		<string>Coronado Cobb Salad</string>
+		<string>Aubree&apos;s Chili</string>
+		<string>Bacon Brussels Sprouts</string>
+		<string>Bone-In Wings</string>
+		<string>Shaved Brussels Sprout Salad</string>
+		<string>Gluten Free Dough</string>
+	</array>
+</array>
+</plist>
